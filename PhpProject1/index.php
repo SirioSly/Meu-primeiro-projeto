@@ -6,13 +6,14 @@ and open the template in the editor.
 -->
 <html>
     
-        <meta charset="UTF-8">
+    <meta charset="UTF-8">
         <title></title>
     </head>
     <body>
-        <a href="Leonardo.php">Clique aqui para ir para a página do leonardo</a>
+        <a href="Leonardo.php">Clique aqui</a>
         <?php
         // put your code here
         ?>
     </body>
+    
 </html>
